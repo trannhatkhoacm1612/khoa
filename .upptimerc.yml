@@ -4,7 +4,12 @@ repo: khoa # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-
+  - name: UIT - Course
+    url: https://courses.uit.edu.vn
+  - name: UIT - Student
+    url: https://student.uit.edu.vn
+  - name: Chat-GPT
+    url: http://34.143.186.148/ # ten mien
   - name: Youtube
     url: https://www.youtube.com
   
@@ -24,7 +29,7 @@ status-website:
       href: https://www.youtube.com
 #     - title: Tensoract - Prev
 #       href: http://34.143.186.148:8000/
-#     - title: UIT - Course
-#       url: https://courses.uit.edu.vn
-#     - title: UIT - Student
-#       href: https://student.uit.edu.vn
+    - title: UIT - Course
+      url: https://courses.uit.edu.vn
+    - title: UIT - Student
+      href: https://student.uit.edu.vn
