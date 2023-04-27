@@ -4,12 +4,10 @@ repo: khoa # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: UIT - Course
-    url: https://courses.uit.edu.vn
-  - name: UIT - Student
-    url: https://student.uit.edu.vn
-  - name: Chat-GPT
-    url: http://34.143.186.148/ # ten mien
+#   - name: UIT - Course
+#     url: https://courses.uit.edu.vn
+#   - name: UIT - Student
+#     url: https://student.uit.edu.vn
   - name: Youtube
     url: https://www.youtube.com
   
