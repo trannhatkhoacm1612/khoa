@@ -1,5 +1,25 @@
 [
   {
+    "name": "TSR - ChatGPT",
+    "url": "http://35.198.212.162",
+    "icon": "https://icons.duckduckgo.com/ip3/35.198.212.162.ico",
+    "slug": "tsr-chat-gpt",
+    "status": "down",
+    "uptime": "7.11%",
+    "uptimeDay": "7.11%",
+    "uptimeWeek": "7.11%",
+    "uptimeMonth": "7.11%",
+    "uptimeYear": "7.11%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-04-29": 0
+    }
+  },
+  {
     "name": "Google",
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
@@ -11,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 94,
+    "timeDay": 90,
     "timeWeek": 83,
     "timeMonth": 83,
     "timeYear": 83,
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 323,
-    "timeWeek": 284,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "time": 279,
+    "timeDay": 274,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 215,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "time": 417,
+    "timeDay": 388,
+    "timeWeek": 417,
+    "timeMonth": 417,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   }
 ]
