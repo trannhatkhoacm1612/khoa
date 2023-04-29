@@ -2,6 +2,9 @@ owner: trannhatkhoacm1612 # Your GitHub organization or username, where this rep
 repo: khoa # The name of this repository
 
 sites:
+  - name: TSR - ChatGPT
+    url: http://35.198.212.162
+    fork: 8000
   - name: Google
     url: https://www.google.com
   - name: Youtube
