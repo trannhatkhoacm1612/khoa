@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 60,
+      "2023-07-17": 889,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -103,18 +103,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 84,
-    "timeWeek": 103,
-    "timeMonth": 113,
-    "timeYear": 98,
-    "dailyMinutesDown": {}
+    "time": 101,
+    "timeDay": 253,
+    "timeWeek": 135,
+    "timeMonth": 122,
+    "timeYear": 101,
+    "dailyMinutesDown": {
+      "2023-07-17": 0
+    }
   },
   {
     "name": "Youtube",
