@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-13": 915,
+      "2023-09-13": 980,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -199,18 +199,20 @@
     "url": "https://www.facebook.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 386,
-    "timeWeek": 328,
-    "timeMonth": 309,
-    "timeYear": 307,
-    "dailyMinutesDown": {}
+    "time": 472,
+    "timeDay": 12260,
+    "timeWeek": 3304,
+    "timeMonth": 1054,
+    "timeYear": 472,
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "Skype",
