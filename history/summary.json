@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-13": 993,
+      "2023-09-14": 38,
+      "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -168,8 +169,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 169,
-    "timeWeek": 118,
+    "timeDay": 158,
+    "timeWeek": 115,
     "timeMonth": 116,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -188,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 448,
-    "timeWeek": 368,
-    "timeMonth": 329,
+    "timeDay": 376,
+    "timeWeek": 373,
+    "timeMonth": 332,
     "timeYear": 382,
     "dailyMinutesDown": {}
   },
@@ -200,19 +201,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 472,
-    "timeDay": 8312,
-    "timeWeek": 2983,
-    "timeMonth": 1034,
-    "timeYear": 472,
-    "dailyMinutesDown": {
-      "2023-09-13": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 470,
+    "timeDay": 8233,
+    "timeWeek": 2960,
+    "timeMonth": 1027,
+    "timeYear": 470,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Skype",
@@ -226,9 +225,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 155,
-    "timeWeek": 106,
-    "timeMonth": 91,
+    "timeDay": 32,
+    "timeWeek": 96,
+    "timeMonth": 90,
     "timeYear": 86,
     "dailyMinutesDown": {}
   }
