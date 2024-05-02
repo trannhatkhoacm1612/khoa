@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-02": 601,
+      "2024-05-02": 620,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -409,19 +409,19 @@
     "url": "https://www.youtube.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico",
     "slug": "youtube",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 316,
-    "timeWeek": 207,
-    "timeMonth": 198,
-    "timeYear": 362,
+    "time": 359,
+    "timeDay": 266,
+    "timeWeek": 203,
+    "timeMonth": 197,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-05-02": 0
+      "2024-05-02": 19
     }
   },
   {
