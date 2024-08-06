@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-05": 1124,
+      "2024-08-06": 47,
+      "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
@@ -379,8 +380,7 @@
       "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
-      "2023-08-08": 1440,
-      "2023-08-07": 1440
+      "2023-08-08": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 85,
-    "timeWeek": 108,
-    "timeMonth": 118,
-    "timeYear": 108,
+    "timeDay": 177,
+    "timeWeek": 118,
+    "timeMonth": 122,
+    "timeYear": 109,
     "dailyMinutesDown": {
       "2024-05-01": 45,
       "2023-09-13": 16
@@ -416,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 183,
-    "timeWeek": 217,
+    "timeDay": 221,
+    "timeWeek": 209,
     "timeMonth": 226,
-    "timeYear": 309,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2024-05-02": 19
     }
@@ -436,9 +436,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 421,
-    "timeWeek": 404,
-    "timeMonth": 433,
+    "timeDay": 316,
+    "timeWeek": 361,
+    "timeMonth": 425,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2023-12-06": 24
@@ -451,17 +451,15 @@
     "slug": "skype",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 101,
-    "timeWeek": 119,
-    "timeMonth": 105,
+    "timeDay": 103,
+    "timeWeek": 107,
+    "timeMonth": 106,
     "timeYear": 90,
-    "dailyMinutesDown": {
-      "2024-08-05": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
