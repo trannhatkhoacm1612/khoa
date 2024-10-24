@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-23": 54,
+      "2024-10-24": 54,
+      "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -379,8 +380,7 @@
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
-      "2023-10-26": 1440,
-      "2023-10-25": 1440
+      "2023-10-26": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 95,
-    "timeWeek": 103,
-    "timeMonth": 106,
+    "timeDay": 146,
+    "timeWeek": 100,
+    "timeMonth": 107,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 45
@@ -415,10 +415,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 218,
-    "timeWeek": 246,
-    "timeMonth": 238,
-    "timeYear": 279,
+    "timeDay": 228,
+    "timeWeek": 195,
+    "timeMonth": 239,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2024-05-02": 19
     }
@@ -434,10 +434,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 315,
-    "timeWeek": 383,
-    "timeMonth": 529,
+    "time": 402,
+    "timeDay": 274,
+    "timeWeek": 351,
+    "timeMonth": 530,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2023-12-06": 24
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "down",
-    "uptime": "99.69%",
+    "uptime": "99.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.01%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "99.54%",
+    "uptimeWeek": "61.72%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "99.27%",
     "time": 92,
-    "timeDay": 56,
-    "timeWeek": 69,
+    "timeDay": 54,
+    "timeWeek": 63,
     "timeMonth": 85,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2024-10-23": 54,
+      "2024-10-24": 54,
+      "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 924
     }
