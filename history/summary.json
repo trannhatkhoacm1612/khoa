@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-24": 61,
+      "2024-11-25": 59,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -379,8 +380,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 73,
-    "timeWeek": 101,
-    "timeMonth": 102,
+    "timeDay": 85,
+    "timeWeek": 100,
+    "timeMonth": 101,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2024-05-01": 45
@@ -415,10 +415,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 269,
-    "timeWeek": 239,
-    "timeMonth": 251,
-    "timeYear": 262,
+    "timeDay": 168,
+    "timeWeek": 238,
+    "timeMonth": 247,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2024-05-02": 19
     }
@@ -435,10 +435,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 259,
-    "timeWeek": 451,
-    "timeMonth": 523,
-    "timeYear": 412,
+    "timeDay": 367,
+    "timeWeek": 453,
+    "timeMonth": 505,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2023-12-06": 24
     }
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "down",
-    "uptime": "94.10%",
+    "uptime": "93.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.78%",
-    "time": 91,
-    "timeDay": 56,
+    "uptimeYear": "90.51%",
+    "time": 90,
+    "timeDay": 58,
     "timeWeek": 56,
     "timeMonth": 57,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-11-24": 61,
+      "2024-11-25": 59,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
