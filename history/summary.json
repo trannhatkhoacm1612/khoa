@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-01": 68,
+      "2024-12-02": 61,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -379,8 +380,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 97,
-    "timeWeek": 104,
+    "timeDay": 103,
+    "timeWeek": 107,
     "timeMonth": 102,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 199,
-    "timeWeek": 187,
-    "timeMonth": 235,
-    "timeYear": 257,
+    "time": 290,
+    "timeDay": 231,
+    "timeWeek": 196,
+    "timeMonth": 231,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2024-05-02": 19
     }
@@ -434,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 209,
-    "timeWeek": 311,
+    "time": 423,
+    "timeDay": 552,
+    "timeWeek": 337,
     "timeMonth": 443,
-    "timeYear": 414,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2023-12-06": 24
     }
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "down",
-    "uptime": "92.96%",
+    "uptime": "92.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.28%",
     "uptimeMonth": "1.45%",
-    "uptimeYear": "88.87%",
+    "uptimeYear": "88.60%",
     "time": 90,
-    "timeDay": 63,
+    "timeDay": 53,
     "timeWeek": 62,
     "timeMonth": 59,
-    "timeYear": 91,
+    "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-12-01": 69,
+      "2024-12-02": 61,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
