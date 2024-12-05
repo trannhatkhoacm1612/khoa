@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-04": 60,
+      "2024-12-05": 60,
+      "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
@@ -379,8 +380,7 @@
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
-      "2023-12-07": 1440,
-      "2023-12-06": 1440
+      "2023-12-07": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 102,
-    "timeWeek": 110,
-    "timeMonth": 104,
+    "timeDay": 92,
+    "timeWeek": 103,
+    "timeMonth": 102,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 45
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 251,
-    "timeWeek": 215,
-    "timeMonth": 233,
-    "timeYear": 256,
+    "time": 289,
+    "timeDay": 170,
+    "timeWeek": 207,
+    "timeMonth": 230,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2024-05-02": 19
     }
@@ -435,13 +435,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 273,
-    "timeWeek": 330,
-    "timeMonth": 424,
-    "timeYear": 415,
-    "dailyMinutesDown": {
-      "2023-12-06": 24
-    }
+    "timeDay": 223,
+    "timeWeek": 310,
+    "timeMonth": 413,
+    "timeYear": 416,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Skype",
@@ -449,18 +447,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "down",
-    "uptime": "92.48%",
+    "uptime": "92.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.45%",
-    "uptimeYear": "88.05%",
+    "uptimeYear": "87.78%",
     "time": 90,
-    "timeDay": 64,
-    "timeWeek": 56,
-    "timeMonth": 59,
+    "timeDay": 77,
+    "timeWeek": 60,
+    "timeMonth": 60,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-12-04": 60,
+      "2024-12-05": 60,
+      "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
