@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-10": 61,
+      "2024-12-11": 60,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -379,8 +380,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 188,
-    "timeWeek": 126,
+    "timeDay": 149,
+    "timeWeek": 133,
     "timeMonth": 111,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -415,10 +415,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 196,
-    "timeWeek": 188,
-    "timeMonth": 216,
-    "timeYear": 252,
+    "timeDay": 222,
+    "timeWeek": 184,
+    "timeMonth": 215,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2024-05-02": 19
     }
@@ -434,10 +434,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 341,
-    "timeWeek": 320,
-    "timeMonth": 390,
+    "time": 424,
+    "timeDay": 408,
+    "timeWeek": 339,
+    "timeMonth": 394,
     "timeYear": 416,
     "dailyMinutesDown": {}
   },
@@ -447,18 +447,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "down",
-    "uptime": "91.53%",
+    "uptime": "91.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.45%",
-    "uptimeYear": "86.41%",
+    "uptimeYear": "86.13%",
     "time": 90,
-    "timeDay": 55,
-    "timeWeek": 63,
-    "timeMonth": 60,
-    "timeYear": 90,
+    "timeDay": 70,
+    "timeWeek": 64,
+    "timeMonth": 61,
+    "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-12-10": 61,
+      "2024-12-11": 60,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
