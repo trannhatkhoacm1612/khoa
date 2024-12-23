@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-22": 59,
+      "2024-12-23": 56,
+      "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
@@ -379,8 +380,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 88,
-    "timeWeek": 117,
-    "timeMonth": 114,
+    "timeDay": 114,
+    "timeWeek": 120,
+    "timeMonth": 113,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-01": 45
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 228,
-    "timeWeek": 230,
-    "timeMonth": 208,
+    "timeDay": 328,
+    "timeWeek": 243,
+    "timeMonth": 213,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2024-05-02": 19
@@ -434,10 +434,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 291,
-    "timeWeek": 343,
-    "timeMonth": 351,
+    "time": 427,
+    "timeDay": 502,
+    "timeWeek": 362,
+    "timeMonth": 356,
     "timeYear": 421,
     "dailyMinutesDown": {}
   },
@@ -447,18 +447,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "down",
-    "uptime": "89.70%",
+    "uptime": "89.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.45%",
-    "uptimeYear": "83.12%",
+    "uptimeYear": "82.84%",
     "time": 90,
-    "timeDay": 60,
-    "timeWeek": 56,
-    "timeMonth": 60,
+    "timeDay": 55,
+    "timeWeek": 55,
+    "timeMonth": 59,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-12-22": 60,
+      "2024-12-23": 57,
+      "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
