@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-25": 54,
+      "2024-12-26": 54,
+      "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
@@ -379,8 +380,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 162,
-    "timeWeek": 114,
+    "timeDay": 108,
+    "timeWeek": 113,
     "timeMonth": 115,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -415,10 +415,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 214,
-    "timeWeek": 237,
-    "timeMonth": 211,
-    "timeYear": 245,
+    "timeDay": 235,
+    "timeWeek": 238,
+    "timeMonth": 212,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2024-05-02": 19
     }
@@ -434,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 555,
-    "timeWeek": 365,
-    "timeMonth": 358,
-    "timeYear": 422,
+    "time": 428,
+    "timeDay": 565,
+    "timeWeek": 401,
+    "timeMonth": 363,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   },
   {
@@ -447,18 +447,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "down",
-    "uptime": "89.25%",
+    "uptime": "89.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.45%",
-    "uptimeYear": "82.30%",
+    "uptimeYear": "82.02%",
     "time": 90,
-    "timeDay": 54,
-    "timeWeek": 55,
-    "timeMonth": 59,
+    "timeDay": 104,
+    "timeWeek": 62,
+    "timeMonth": 61,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-12-25": 54,
+      "2024-12-26": 55,
+      "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
