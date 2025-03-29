@@ -8,7 +8,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-28": 59,
+      "2025-03-29": 58,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -379,8 +380,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 98,
-    "timeWeek": 126,
-    "timeMonth": 133,
+    "timeDay": 103,
+    "timeWeek": 124,
+    "timeMonth": 132,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-05-01": 45
@@ -414,10 +414,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 277,
-    "timeWeek": 269,
-    "timeMonth": 257,
+    "time": 257,
+    "timeDay": 280,
+    "timeWeek": 263,
+    "timeMonth": 258,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2024-05-02": 19
@@ -434,10 +434,10 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 197,
-    "timeWeek": 476,
-    "timeMonth": 491,
+    "time": 410,
+    "timeDay": 162,
+    "timeWeek": 452,
+    "timeMonth": 481,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-03-25": 17
@@ -449,15 +449,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "83.25%",
+    "uptime": "83.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.16%",
     "time": 96,
-    "timeDay": 62,
-    "timeWeek": 92,
-    "timeMonth": 100,
+    "timeDay": 236,
+    "timeWeek": 90,
+    "timeMonth": 104,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2025-02-14": 932,
