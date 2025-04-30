@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/35.198.212.162.ico",
     "slug": "tsr-chat-gpt",
     "status": "up",
-    "uptime": "0.44%",
+    "uptime": "0.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "46.05%",
-    "uptimeMonth": "8.69%",
-    "uptimeYear": "0.88%",
-    "time": 419,
-    "timeDay": 462,
-    "timeWeek": 419,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "uptimeWeek": "60.34%",
+    "uptimeMonth": "11.98%",
+    "uptimeYear": "1.16%",
+    "time": 424,
+    "timeDay": 450,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2025-04-25": 1180,
       "2025-04-24": 1440,
@@ -375,8 +375,7 @@
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
-      "2024-05-01": 1440,
-      "2024-04-30": 1440
+      "2024-05-01": 1440
     }
   },
   {
@@ -391,10 +390,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 83,
-    "timeWeek": 99,
+    "timeDay": 106,
+    "timeWeek": 102,
     "timeMonth": 141,
-    "timeYear": 115,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2024-05-01": 45
     }
@@ -410,11 +409,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 218,
-    "timeWeek": 284,
-    "timeMonth": 246,
-    "timeYear": 228,
+    "time": 245,
+    "timeDay": 173,
+    "timeWeek": 270,
+    "timeMonth": 245,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2024-05-02": 19
     }
@@ -430,11 +429,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 418,
-    "timeWeek": 345,
-    "timeMonth": 369,
-    "timeYear": 442,
+    "time": 418,
+    "timeDay": 735,
+    "timeWeek": 369,
+    "timeMonth": 371,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2025-03-25": 17
     }
@@ -445,14 +444,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "83.99%",
+    "uptime": "84.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.16%",
     "time": 101,
-    "timeDay": 98,
-    "timeWeek": 72,
+    "timeDay": 94,
+    "timeWeek": 74,
     "timeMonth": 147,
     "timeYear": 104,
     "dailyMinutesDown": {
