@@ -7,16 +7,17 @@
     "status": "down",
     "uptime": "0.95%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.01%",
+    "uptimeWeek": "67.75%",
     "uptimeMonth": "24.29%",
     "uptimeYear": "1.91%",
     "time": 411,
     "timeDay": 0,
-    "timeWeek": 411,
+    "timeWeek": 414,
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-05-04": 68,
+      "2025-05-05": 65,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 306,
       "2025-04-25": 1180,
@@ -373,8 +374,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -389,8 +389,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 74,
-    "timeWeek": 95,
+    "timeDay": 82,
+    "timeWeek": 89,
     "timeMonth": 97,
     "timeYear": 113,
     "dailyMinutesDown": {}
@@ -407,9 +407,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 175,
-    "timeWeek": 234,
-    "timeMonth": 247,
+    "timeDay": 228,
+    "timeWeek": 231,
+    "timeMonth": 248,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -425,10 +425,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
-    "timeDay": 333,
-    "timeWeek": 460,
-    "timeMonth": 387,
-    "timeYear": 444,
+    "timeDay": 184,
+    "timeWeek": 449,
+    "timeMonth": 366,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2025-03-25": 17
     }
@@ -439,14 +439,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "84.10%",
+    "uptime": "84.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.16%",
     "time": 101,
-    "timeDay": 64,
-    "timeWeek": 74,
+    "timeDay": 93,
+    "timeWeek": 78,
     "timeMonth": 148,
     "timeYear": 104,
     "dailyMinutesDown": {
