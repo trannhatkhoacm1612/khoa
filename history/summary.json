@@ -7,7 +7,7 @@
     "status": "down",
     "uptime": "0.94%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "10.63%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "24.29%",
     "uptimeYear": "1.91%",
     "time": 411,
@@ -16,7 +16,8 @@
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-05-09": 63,
+      "2025-05-10": 60,
+      "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -373,8 +374,7 @@
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
-      "2024-05-11": 1440,
-      "2024-05-10": 1440
+      "2024-05-11": 1440
     }
   },
   {
@@ -389,9 +389,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 169,
+    "timeDay": 91,
     "timeWeek": 129,
-    "timeMonth": 105,
+    "timeMonth": 106,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -407,9 +407,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 172,
-    "timeWeek": 228,
-    "timeMonth": 249,
+    "timeDay": 233,
+    "timeWeek": 220,
+    "timeMonth": 247,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -425,9 +425,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 220,
-    "timeWeek": 525,
-    "timeMonth": 393,
+    "timeDay": 272,
+    "timeWeek": 481,
+    "timeMonth": 398,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2025-03-25": 17
@@ -439,15 +439,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "84.21%",
+    "uptime": "84.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.16%",
-    "time": 101,
-    "timeDay": 69,
-    "timeWeek": 111,
-    "timeMonth": 156,
+    "time": 102,
+    "timeDay": 193,
+    "timeWeek": 129,
+    "timeMonth": 160,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2025-02-14": 932,
