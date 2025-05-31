@@ -8,7 +8,7 @@
     "uptime": "0.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.40%",
+    "uptimeMonth": "7.11%",
     "uptimeYear": "1.91%",
     "time": 411,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 372,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-05-30": 62,
+      "2025-05-31": 62,
+      "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -373,8 +374,7 @@
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
-      "2024-06-01": 1440,
-      "2024-05-31": 1440
+      "2024-06-01": 1440
     }
   },
   {
@@ -389,8 +389,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 81,
-    "timeWeek": 93,
+    "timeDay": 106,
+    "timeWeek": 96,
     "timeMonth": 111,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -406,10 +406,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 387,
+    "time": 236,
+    "timeDay": 284,
     "timeWeek": 290,
-    "timeMonth": 253,
+    "timeMonth": 254,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -425,9 +425,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 1474,
-    "timeWeek": 577,
-    "timeMonth": 486,
+    "timeDay": 375,
+    "timeWeek": 591,
+    "timeMonth": 482,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2025-03-25": 17
@@ -439,16 +439,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "84.65%",
+    "uptime": "84.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.16%",
     "time": 122,
-    "timeDay": 108,
-    "timeWeek": 177,
-    "timeMonth": 423,
-    "timeYear": 132,
+    "timeDay": 180,
+    "timeWeek": 185,
+    "timeMonth": 415,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2025-02-14": 932,
       "2025-02-13": 1440,
