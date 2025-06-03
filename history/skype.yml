@@ -1,7 +1,7 @@
 url: https://www.skype.com/en
-status: up
-code: 200
-responseTime: 172
-lastUpdated: 2025-06-02T23:16:24.227Z
+status: down
+code: 503
+responseTime: 2571
+lastUpdated: 2025-06-03T16:59:17.754Z
 startTime: 2023-05-04T01:19:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
