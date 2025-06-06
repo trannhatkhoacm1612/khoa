@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-06-05": 64,
+      "2025-06-06": 64,
+      "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -373,8 +374,7 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440
+      "2024-06-07": 1440
     }
   },
   {
@@ -388,10 +388,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 137,
+    "time": 112,
+    "timeDay": 83,
     "timeWeek": 99,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -407,8 +407,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 338,
-    "timeWeek": 299,
+    "timeDay": 246,
+    "timeWeek": 279,
     "timeMonth": 260,
     "timeYear": 233,
     "dailyMinutesDown": {}
@@ -425,9 +425,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
-    "timeDay": 255,
-    "timeWeek": 520,
-    "timeMonth": 476,
+    "timeDay": 251,
+    "timeWeek": 345,
+    "timeMonth": 475,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-03-25": 17
@@ -439,14 +439,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "84.77%",
+    "uptime": "84.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "68.15%",
     "time": 128,
-    "timeDay": 205,
-    "timeWeek": 438,
+    "timeDay": 139,
+    "timeWeek": 441,
     "timeMonth": 490,
     "timeYear": 141,
     "dailyMinutesDown": {
