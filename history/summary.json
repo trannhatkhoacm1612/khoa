@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-06-21": 64,
+      "2025-06-22": 72,
+      "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -373,8 +374,7 @@
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
-      "2024-06-23": 1440,
-      "2024-06-22": 1440
+      "2024-06-23": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 86,
-    "timeWeek": 154,
+    "timeDay": 103,
+    "timeWeek": 152,
     "timeMonth": 117,
-    "timeYear": 117,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -407,10 +407,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 201,
-    "timeWeek": 264,
-    "timeMonth": 267,
-    "timeYear": 234,
+    "timeDay": 244,
+    "timeWeek": 249,
+    "timeMonth": 266,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -421,14 +421,14 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 437,
-    "timeDay": 161,
-    "timeWeek": 409,
-    "timeMonth": 408,
-    "timeYear": 441,
+    "timeDay": 146,
+    "timeWeek": 415,
+    "timeMonth": 402,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -440,16 +440,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "85.08%",
+    "uptime": "85.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "68.15%",
     "time": 134,
-    "timeDay": 143,
-    "timeWeek": 183,
-    "timeMonth": 562,
-    "timeYear": 147,
+    "timeDay": 199,
+    "timeWeek": 186,
+    "timeMonth": 559,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2025-06-03": 22,
       "2025-02-14": 932,
