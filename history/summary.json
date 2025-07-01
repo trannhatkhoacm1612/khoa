@@ -8,7 +8,7 @@
     "uptime": "0.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "1.91%",
     "time": 411,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-06-30": 70,
+      "2025-07-01": 73,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -373,8 +374,7 @@
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -390,8 +390,8 @@
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 100,
-    "timeWeek": 106,
-    "timeMonth": 115,
+    "timeWeek": 101,
+    "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -407,9 +407,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 228,
+    "timeDay": 274,
     "timeWeek": 249,
-    "timeMonth": 261,
+    "timeMonth": 260,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -425,10 +425,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 437,
-    "timeDay": 477,
-    "timeWeek": 358,
-    "timeMonth": 364,
-    "timeYear": 439,
+    "timeDay": 302,
+    "timeWeek": 365,
+    "timeMonth": 356,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -440,15 +440,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "85.25%",
+    "uptime": "85.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "68.15%",
-    "time": 133,
-    "timeDay": 196,
-    "timeWeek": 190,
-    "timeMonth": 289,
+    "time": 134,
+    "timeDay": 177,
+    "timeWeek": 181,
+    "timeMonth": 294,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2025-06-03": 22,
