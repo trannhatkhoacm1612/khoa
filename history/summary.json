@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-07-02": 66,
+      "2025-07-02": 1052,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -382,18 +382,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 112,
-    "timeWeek": 103,
-    "timeMonth": 117,
-    "timeYear": 116,
-    "dailyMinutesDown": {}
+    "time": 115,
+    "timeDay": 331,
+    "timeWeek": 159,
+    "timeMonth": 130,
+    "timeYear": 117,
+    "dailyMinutesDown": {
+      "2025-07-02": 0
+    }
   },
   {
     "name": "Youtube",
@@ -440,7 +442,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "85.29%",
+    "uptime": "85.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
