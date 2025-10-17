@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-10-16": 60,
+      "2025-10-17": 60,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -373,8 +374,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 1440
+      "2024-10-18": 1440
     }
   },
   {
@@ -389,9 +389,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 88,
-    "timeWeek": 77,
-    "timeMonth": 124,
+    "timeDay": 82,
+    "timeWeek": 78,
+    "timeMonth": 123,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -407,10 +407,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 336,
-    "timeWeek": 251,
-    "timeMonth": 259,
-    "timeYear": 249,
+    "timeDay": 186,
+    "timeWeek": 247,
+    "timeMonth": 252,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   },
   {
@@ -424,11 +424,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 436,
-    "timeDay": 128,
-    "timeWeek": 338,
-    "timeMonth": 310,
-    "timeYear": 419,
+    "time": 435,
+    "timeDay": 174,
+    "timeWeek": 324,
+    "timeMonth": 305,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -440,16 +440,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.03%",
-    "uptimeDay": "98.80%",
+    "uptime": "87.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "68.15%",
-    "time": 174,
-    "timeDay": 152,
-    "timeWeek": 168,
+    "time": 173,
+    "timeDay": 167,
+    "timeWeek": 166,
     "timeMonth": 191,
-    "timeYear": 194,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2025-10-15": 17,
       "2025-06-03": 22,
