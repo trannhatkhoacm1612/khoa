@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-10-20": 65,
+      "2025-10-21": 62,
+      "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -373,8 +374,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 1440
+      "2024-10-22": 1440
     }
   },
   {
@@ -389,9 +389,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 175,
-    "timeWeek": 97,
-    "timeMonth": 123,
+    "timeDay": 109,
+    "timeWeek": 101,
+    "timeMonth": 124,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -406,10 +406,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 277,
-    "timeWeek": 256,
-    "timeMonth": 251,
+    "time": 242,
+    "timeDay": 495,
+    "timeWeek": 293,
+    "timeMonth": 258,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -425,10 +425,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 435,
-    "timeDay": 391,
-    "timeWeek": 305,
-    "timeMonth": 314,
-    "timeYear": 419,
+    "timeDay": 372,
+    "timeWeek": 307,
+    "timeMonth": 319,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -440,15 +440,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.08%",
+    "uptime": "87.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "68.15%",
     "time": 175,
-    "timeDay": 368,
-    "timeWeek": 195,
-    "timeMonth": 197,
+    "timeDay": 213,
+    "timeWeek": 199,
+    "timeMonth": 199,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -568,8 +568,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1377,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 924
+      "2024-10-22": 1440
     }
   }
 ]
