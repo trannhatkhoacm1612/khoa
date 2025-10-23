@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-10-22": 63,
+      "2025-10-23": 61,
+      "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -373,8 +374,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1440
+      "2024-10-24": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 84,
+    "timeDay": 88,
     "timeWeek": 102,
     "timeMonth": 125,
     "timeYear": 114,
@@ -407,9 +407,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 333,
-    "timeWeek": 304,
-    "timeMonth": 262,
+    "timeDay": 443,
+    "timeWeek": 319,
+    "timeMonth": 268,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -424,9 +424,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 434,
-    "timeDay": 412,
-    "timeWeek": 340,
+    "time": 433,
+    "timeDay": 186,
+    "timeWeek": 348,
     "timeMonth": 325,
     "timeYear": 418,
     "dailyMinutesDown": {
@@ -440,16 +440,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.11%",
+    "uptime": "87.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "68.34%",
+    "uptimeYear": "68.61%",
     "time": 175,
-    "timeDay": 228,
-    "timeWeek": 204,
-    "timeMonth": 201,
-    "timeYear": 197,
+    "timeDay": 188,
+    "timeWeek": 223,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2025-10-15": 17,
       "2025-06-03": 22,
@@ -566,8 +566,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1377,
-      "2024-10-23": 1440
+      "2024-10-24": 1377
     }
   }
 ]
