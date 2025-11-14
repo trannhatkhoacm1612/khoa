@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-11-13": 64,
+      "2025-11-14": 63,
+      "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -373,8 +374,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   },
   {
@@ -389,8 +389,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 918,
-    "timeWeek": 211,
+    "timeDay": 105,
+    "timeWeek": 214,
     "timeMonth": 193,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -406,11 +406,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 400,
-    "timeWeek": 351,
-    "timeMonth": 316,
-    "timeYear": 254,
+    "time": 248,
+    "timeDay": 409,
+    "timeWeek": 360,
+    "timeMonth": 321,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   },
   {
@@ -425,8 +425,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 428,
-    "timeDay": 429,
-    "timeWeek": 403,
+    "timeDay": 371,
+    "timeWeek": 425,
     "timeMonth": 348,
     "timeYear": 408,
     "dailyMinutesDown": {
@@ -440,15 +440,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.42%",
+    "uptime": "87.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "74.35%",
+    "uptimeYear": "74.63%",
     "time": 181,
-    "timeDay": 241,
-    "timeWeek": 231,
-    "timeMonth": 213,
+    "timeDay": 219,
+    "timeWeek": 227,
+    "timeMonth": 214,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -544,8 +544,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   }
 ]
