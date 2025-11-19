@@ -6,7 +6,7 @@
     "slug": "tsr-chat-gpt",
     "status": "down",
     "uptime": "0.98%",
-    "uptimeDay": "3.46%",
+    "uptimeDay": "2.75%",
     "uptimeWeek": "31.62%",
     "uptimeMonth": "5.37%",
     "uptimeYear": "2.52%",
@@ -16,7 +16,7 @@
     "timeMonth": 460,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-11-19": 826,
+      "2025-11-19": 837,
       "2025-11-18": 564,
       "2025-11-16": 745,
       "2025-11-15": 1440,
@@ -381,19 +381,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 281,
-    "timeWeek": 241,
-    "timeMonth": 202,
+    "timeDay": 213,
+    "timeWeek": 223,
+    "timeMonth": 198,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-11-19": 0
+      "2025-11-19": 10
     }
   },
   {
