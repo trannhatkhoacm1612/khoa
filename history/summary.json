@@ -6,17 +6,18 @@
     "slug": "tsr-chat-gpt",
     "status": "down",
     "uptime": "0.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "56.47%",
     "uptimeWeek": "31.62%",
     "uptimeMonth": "5.37%",
     "uptimeYear": "2.52%",
     "time": 427,
-    "timeDay": 452,
+    "timeDay": 0,
     "timeWeek": 460,
     "timeMonth": 460,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-19": 63,
+      "2025-11-18": 564,
       "2025-11-16": 745,
       "2025-11-15": 1440,
       "2025-11-14": 1264,
@@ -372,8 +373,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
@@ -388,9 +388,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 81,
-    "timeWeek": 207,
-    "timeMonth": 194,
+    "timeDay": 76,
+    "timeWeek": 206,
+    "timeMonth": 193,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
@@ -406,9 +406,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 324,
-    "timeWeek": 314,
-    "timeMonth": 323,
+    "timeDay": 213,
+    "timeWeek": 302,
+    "timeMonth": 322,
     "timeYear": 255,
     "dailyMinutesDown": {}
   },
@@ -423,11 +423,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 427,
-    "timeDay": 258,
-    "timeWeek": 394,
-    "timeMonth": 364,
-    "timeYear": 407,
+    "time": 428,
+    "timeDay": 694,
+    "timeWeek": 453,
+    "timeMonth": 380,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -439,15 +439,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.49%",
+    "uptime": "87.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.88%",
+    "uptimeYear": "76.00%",
     "time": 182,
-    "timeDay": 186,
-    "timeWeek": 214,
-    "timeMonth": 224,
+    "timeDay": 192,
+    "timeWeek": 216,
+    "timeMonth": 223,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -538,8 +538,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   }
 ]
