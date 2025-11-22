@@ -16,7 +16,7 @@
     "timeMonth": 460,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-11-22": 1101,
+      "2025-11-22": 1123,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -381,18 +381,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 224,
-    "timeWeek": 152,
-    "timeMonth": 200,
+    "timeDay": 174,
+    "timeWeek": 145,
+    "timeMonth": 196,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 22
+    }
   },
   {
     "name": "Youtube",
