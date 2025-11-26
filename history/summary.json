@@ -7,7 +7,7 @@
     "status": "down",
     "uptime": "0.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.07%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "5.37%",
     "uptimeYear": "2.52%",
     "time": 427,
@@ -16,7 +16,8 @@
     "timeMonth": 460,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-11-25": 63,
+      "2025-11-26": 64,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -372,8 +373,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -383,13 +383,13 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 143,
-    "timeWeek": 170,
+    "timeDay": 103,
+    "timeWeek": 172,
     "timeMonth": 199,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -409,10 +409,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 421,
-    "timeWeek": 308,
+    "timeDay": 274,
+    "timeWeek": 316,
     "timeMonth": 314,
-    "timeYear": 256,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -427,9 +427,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 427,
-    "timeDay": 341,
-    "timeWeek": 462,
-    "timeMonth": 403,
+    "timeDay": 422,
+    "timeWeek": 423,
+    "timeMonth": 409,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2025-06-14": 18,
@@ -442,16 +442,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.58%",
+    "uptime": "87.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.64%",
-    "time": 184,
-    "timeDay": 200,
-    "timeWeek": 265,
-    "timeMonth": 233,
-    "timeYear": 214,
+    "uptimeYear": "77.92%",
+    "time": 185,
+    "timeDay": 612,
+    "timeWeek": 325,
+    "timeMonth": 248,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2025-10-15": 17,
       "2025-06-03": 22,
@@ -534,8 +534,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1412
+      "2024-11-27": 1440
     }
   }
 ]
