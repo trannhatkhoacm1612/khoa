@@ -16,7 +16,8 @@
     "timeMonth": 460,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-11-28": 61,
+      "2025-11-29": 62,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -372,8 +373,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -388,9 +388,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 81,
-    "timeWeek": 154,
-    "timeMonth": 198,
+    "timeDay": 102,
+    "timeWeek": 148,
+    "timeMonth": 199,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-11-24": 19,
@@ -408,11 +408,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 275,
-    "timeWeek": 324,
-    "timeMonth": 314,
-    "timeYear": 257,
+    "time": 251,
+    "timeDay": 405,
+    "timeWeek": 326,
+    "timeMonth": 320,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   },
   {
@@ -426,10 +426,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 428,
-    "timeDay": 484,
-    "timeWeek": 489,
-    "timeMonth": 432,
+    "time": 429,
+    "timeDay": 470,
+    "timeWeek": 499,
+    "timeMonth": 439,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2025-06-14": 18,
@@ -442,15 +442,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.62%",
+    "uptime": "87.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.46%",
-    "time": 186,
-    "timeDay": 343,
-    "timeWeek": 336,
-    "timeMonth": 255,
+    "uptimeYear": "78.73%",
+    "time": 187,
+    "timeDay": 231,
+    "timeWeek": 317,
+    "timeMonth": 258,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -531,8 +531,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   }
 ]
