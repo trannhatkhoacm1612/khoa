@@ -16,7 +16,8 @@
     "timeMonth": 460,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-12-02": 65,
+      "2025-12-03": 66,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -372,8 +373,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   },
   {
@@ -388,9 +388,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 147,
+    "timeDay": 100,
     "timeWeek": 257,
-    "timeMonth": 233,
+    "timeMonth": 232,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-11-24": 19,
@@ -409,9 +409,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 357,
-    "timeWeek": 326,
-    "timeMonth": 326,
+    "timeDay": 292,
+    "timeWeek": 329,
+    "timeMonth": 321,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -427,9 +427,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 428,
-    "timeDay": 359,
-    "timeWeek": 456,
-    "timeMonth": 448,
+    "timeDay": 454,
+    "timeWeek": 461,
+    "timeMonth": 453,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2025-06-14": 18,
@@ -442,16 +442,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.67%",
+    "uptime": "87.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.55%",
+    "uptimeYear": "79.83%",
     "time": 187,
-    "timeDay": 178,
-    "timeWeek": 316,
+    "timeDay": 273,
+    "timeWeek": 268,
     "timeMonth": 259,
-    "timeYear": 219,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2025-10-15": 17,
       "2025-06-03": 22,
@@ -527,8 +527,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   }
 ]
