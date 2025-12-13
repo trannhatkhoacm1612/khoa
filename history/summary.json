@@ -16,7 +16,8 @@
     "timeMonth": 460,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-12-12": 68,
+      "2025-12-13": 63,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -372,8 +373,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -383,14 +383,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 205,
-    "timeWeek": 143,
-    "timeMonth": 183,
+    "timeDay": 128,
+    "timeWeek": 140,
+    "timeMonth": 164,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-12-11": 38,
@@ -410,9 +410,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 333,
-    "timeWeek": 315,
-    "timeMonth": 313,
+    "timeDay": 242,
+    "timeWeek": 301,
+    "timeMonth": 307,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -428,10 +428,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 428,
-    "timeDay": 288,
-    "timeWeek": 375,
-    "timeMonth": 436,
-    "timeYear": 411,
+    "timeDay": 306,
+    "timeWeek": 373,
+    "timeMonth": 431,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -443,15 +443,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.80%",
+    "uptime": "87.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.29%",
+    "uptimeYear": "82.57%",
     "time": 190,
-    "timeDay": 211,
-    "timeWeek": 259,
-    "timeMonth": 266,
+    "timeDay": 173,
+    "timeWeek": 254,
+    "timeMonth": 263,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -518,8 +518,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   }
 ]
