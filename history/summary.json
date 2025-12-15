@@ -8,7 +8,7 @@
     "uptime": "0.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "8.48%",
+    "uptimeMonth": "8.25%",
     "uptimeYear": "2.52%",
     "time": 427,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 382,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-12-14": 658,
+      "2025-12-15": 69,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -372,8 +373,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   },
   {
@@ -382,18 +382,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 259,
-    "timeWeek": 177,
+    "timeDay": 261,
+    "timeWeek": 174,
     "timeMonth": 172,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-12-14": 8,
       "2025-12-11": 38,
       "2025-11-24": 19,
       "2025-11-22": 22
@@ -411,9 +410,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 248,
-    "timeWeek": 293,
-    "timeMonth": 302,
+    "timeDay": 241,
+    "timeWeek": 282,
+    "timeMonth": 301,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -428,10 +427,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 429,
-    "timeDay": 823,
-    "timeWeek": 409,
-    "timeMonth": 447,
+    "time": 428,
+    "timeDay": 222,
+    "timeWeek": 381,
+    "timeMonth": 445,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-06-14": 18,
@@ -444,16 +443,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.83%",
+    "uptime": "87.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.95%",
+    "uptimeYear": "83.12%",
     "time": 190,
-    "timeDay": 179,
-    "timeWeek": 238,
-    "timeMonth": 262,
-    "timeYear": 225,
+    "timeDay": 178,
+    "timeWeek": 223,
+    "timeMonth": 263,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2025-10-15": 17,
       "2025-06-03": 22,
@@ -517,8 +516,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   }
 ]
