@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/35.198.212.162.ico",
     "slug": "tsr-chat-gpt",
     "status": "down",
-    "uptime": "0.95%",
+    "uptime": "0.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-12-25": 67,
+      "2025-12-26": 67,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -372,8 +373,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -388,10 +388,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 125,
-    "timeDay": 64,
-    "timeWeek": 137,
-    "timeMonth": 163,
-    "timeYear": 129,
+    "timeDay": 78,
+    "timeWeek": 138,
+    "timeMonth": 162,
+    "timeYear": 128,
     "dailyMinutesDown": {
       "2025-12-23": 18,
       "2025-12-19": 36,
@@ -412,9 +412,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 233,
-    "timeWeek": 280,
-    "timeMonth": 297,
+    "timeDay": 230,
+    "timeWeek": 278,
+    "timeMonth": 296,
     "timeYear": 263,
     "dailyMinutesDown": {}
   },
@@ -430,10 +430,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 426,
-    "timeDay": 332,
-    "timeWeek": 328,
-    "timeMonth": 397,
-    "timeYear": 411,
+    "timeDay": 322,
+    "timeWeek": 345,
+    "timeMonth": 394,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -445,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "87.97%",
+    "uptime": "87.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.86%",
-    "time": 193,
-    "timeDay": 230,
-    "timeWeek": 236,
-    "timeMonth": 258,
+    "uptimeYear": "86.13%",
+    "time": 194,
+    "timeDay": 221,
+    "timeWeek": 243,
+    "timeMonth": 245,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -507,8 +507,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   }
 ]
