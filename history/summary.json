@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2026-01-04": 1076,
+      "2026-01-05": 75,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -372,8 +373,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -383,17 +383,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 125,
-    "timeDay": 198,
-    "timeWeek": 165,
-    "timeMonth": 144,
+    "timeDay": 206,
+    "timeWeek": 153,
+    "timeMonth": 145,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-01-04": 8,
       "2025-12-23": 18,
       "2025-12-19": 36,
       "2025-12-11": 38,
@@ -413,10 +412,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 271,
-    "timeWeek": 284,
-    "timeMonth": 285,
-    "timeYear": 265,
+    "timeDay": 343,
+    "timeWeek": 289,
+    "timeMonth": 287,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -431,9 +430,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 424,
-    "timeDay": 229,
-    "timeWeek": 350,
-    "timeMonth": 374,
+    "timeDay": 382,
+    "timeWeek": 356,
+    "timeMonth": 364,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2025-06-14": 18,
@@ -450,12 +449,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.79%",
+    "uptimeYear": "88.87%",
     "time": 197,
-    "timeDay": 191,
-    "timeWeek": 280,
-    "timeMonth": 250,
-    "timeYear": 236,
+    "timeDay": 212,
+    "timeWeek": 281,
+    "timeMonth": 247,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2025-10-15": 17,
       "2025-06-03": 22,
@@ -498,8 +497,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   }
 ]
