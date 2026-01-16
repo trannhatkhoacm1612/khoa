@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/35.198.212.162.ico",
     "slug": "tsr-chat-gpt",
     "status": "down",
-    "uptime": "0.93%",
+    "uptime": "0.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2026-01-15": 68,
+      "2026-01-16": 70,
+      "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
@@ -372,8 +373,7 @@
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
-      "2025-01-17": 1440,
-      "2025-01-16": 1440
+      "2025-01-17": 1440
     }
   },
   {
@@ -388,10 +388,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
     "time": 125,
-    "timeDay": 107,
-    "timeWeek": 106,
-    "timeMonth": 129,
-    "timeYear": 130,
+    "timeDay": 63,
+    "timeWeek": 90,
+    "timeMonth": 127,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2025-12-23": 18,
       "2025-12-19": 36,
@@ -412,9 +412,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 342,
-    "timeWeek": 288,
-    "timeMonth": 286,
+    "timeDay": 252,
+    "timeWeek": 286,
+    "timeMonth": 282,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -429,10 +429,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 421,
-    "timeDay": 803,
-    "timeWeek": 429,
-    "timeMonth": 356,
+    "time": 422,
+    "timeDay": 366,
+    "timeWeek": 402,
+    "timeMonth": 359,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-06-14": 18,
@@ -445,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "88.22%",
+    "uptime": "88.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.61%",
+    "uptimeYear": "91.88%",
     "time": 200,
-    "timeDay": 299,
-    "timeWeek": 251,
-    "timeMonth": 247,
+    "timeDay": 150,
+    "timeWeek": 229,
+    "timeMonth": 244,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -486,8 +486,7 @@
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
-      "2025-01-17": 1440,
-      "2025-01-16": 1440
+      "2025-01-17": 1440
     }
   }
 ]
