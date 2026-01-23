@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2026-01-22": 71,
+      "2026-01-23": 71,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -372,8 +373,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -388,9 +388,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 125,
-    "timeDay": 197,
-    "timeWeek": 147,
-    "timeMonth": 137,
+    "timeDay": 78,
+    "timeWeek": 149,
+    "timeMonth": 136,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2025-12-23": 18,
@@ -412,9 +412,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 257,
-    "timeWeek": 279,
-    "timeMonth": 282,
+    "timeDay": 254,
+    "timeWeek": 280,
+    "timeMonth": 280,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -429,10 +429,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 421,
-    "timeDay": 273,
-    "timeWeek": 319,
-    "timeMonth": 354,
+    "time": 419,
+    "timeDay": 274,
+    "timeWeek": 306,
+    "timeMonth": 352,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2025-06-14": 18,
@@ -445,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "88.30%",
+    "uptime": "88.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.53%",
-    "time": 201,
-    "timeDay": 185,
-    "timeWeek": 215,
-    "timeMonth": 236,
+    "uptimeYear": "93.80%",
+    "time": 198,
+    "timeDay": 176,
+    "timeWeek": 219,
+    "timeMonth": 235,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -479,8 +479,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   }
 ]
