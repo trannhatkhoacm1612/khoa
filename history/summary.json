@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2026-01-30": 80,
+      "2026-01-31": 78,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -372,8 +373,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   },
   {
@@ -388,9 +388,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 126,
-    "timeDay": 115,
-    "timeWeek": 122,
-    "timeMonth": 132,
+    "timeDay": 133,
+    "timeWeek": 100,
+    "timeMonth": 133,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-12-23": 18,
@@ -412,8 +412,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 265,
-    "timeWeek": 286,
+    "timeDay": 327,
+    "timeWeek": 292,
     "timeMonth": 287,
     "timeYear": 270,
     "dailyMinutesDown": {}
@@ -429,11 +429,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 417,
-    "timeDay": 301,
-    "timeWeek": 350,
-    "timeMonth": 349,
-    "timeYear": 410,
+    "time": 418,
+    "timeDay": 862,
+    "timeWeek": 429,
+    "timeMonth": 370,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -445,16 +445,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "88.40%",
+    "uptime": "88.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.72%",
+    "uptimeYear": "95.99%",
     "time": 201,
-    "timeDay": 174,
-    "timeWeek": 260,
+    "timeDay": 280,
+    "timeWeek": 270,
     "timeMonth": 244,
-    "timeYear": 248,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2025-10-15": 17,
       "2025-06-03": 22,
@@ -471,8 +471,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   }
 ]
