@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2026-01-31": 78,
+      "2026-02-01": 104,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -372,8 +373,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -388,8 +388,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 126,
-    "timeDay": 133,
-    "timeWeek": 100,
+    "timeDay": 95,
+    "timeWeek": 103,
     "timeMonth": 133,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -412,9 +412,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 327,
-    "timeWeek": 292,
-    "timeMonth": 287,
+    "timeDay": 261,
+    "timeWeek": 297,
+    "timeMonth": 288,
     "timeYear": 270,
     "dailyMinutesDown": {}
   },
@@ -430,10 +430,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 418,
-    "timeDay": 862,
-    "timeWeek": 429,
-    "timeMonth": 370,
-    "timeYear": 411,
+    "timeDay": 198,
+    "timeWeek": 408,
+    "timeMonth": 368,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-03-25": 17
@@ -445,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "88.41%",
+    "uptime": "88.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.99%",
+    "uptimeYear": "96.27%",
     "time": 201,
-    "timeDay": 280,
-    "timeWeek": 270,
-    "timeMonth": 244,
+    "timeDay": 162,
+    "timeWeek": 261,
+    "timeMonth": 233,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -470,8 +470,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   }
 ]
