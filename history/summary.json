@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/35.198.212.162.ico",
     "slug": "tsr-chat-gpt",
     "status": "down",
-    "uptime": "0.91%",
+    "uptime": "0.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2026-02-06": 81,
+      "2026-02-07": 80,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -372,8 +373,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   },
   {
@@ -388,8 +388,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 126,
-    "timeDay": 94,
-    "timeWeek": 113,
+    "timeDay": 128,
+    "timeWeek": 112,
     "timeMonth": 121,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -412,8 +412,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 397,
-    "timeWeek": 318,
+    "timeDay": 339,
+    "timeWeek": 320,
     "timeMonth": 293,
     "timeYear": 271,
     "dailyMinutesDown": {}
@@ -430,9 +430,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 416,
-    "timeDay": 187,
-    "timeWeek": 446,
-    "timeMonth": 374,
+    "timeDay": 366,
+    "timeWeek": 375,
+    "timeMonth": 379,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2025-06-14": 18,
@@ -445,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skype.com.ico",
     "slug": "skype",
     "status": "up",
-    "uptime": "88.48%",
+    "uptime": "88.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.64%",
+    "uptimeYear": "97.91%",
     "time": 203,
-    "timeDay": 202,
-    "timeWeek": 268,
-    "timeMonth": 242,
+    "timeDay": 177,
+    "timeWeek": 254,
+    "timeMonth": 241,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-10-15": 17,
@@ -464,8 +464,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   }
 ]
